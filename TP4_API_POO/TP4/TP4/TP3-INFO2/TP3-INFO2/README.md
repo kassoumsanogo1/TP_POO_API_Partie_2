@@ -3,7 +3,7 @@
 ### TP4 2/2 : Utilisation d'API web avec Spring Boot
 ### J'ai ajouté des captures d'écran dans le fichier Captures Ecran Site Météo
 
-LIEN GITHUB TP4 : 
+LIEN GITHUB TP4 : https://github.com/kassoumsanogo1/TP_POO_API_Partie_2.git 
 
 ### Etape 6 : Appel de l'API MeteoConcept
 
@@ -58,7 +58,7 @@ calculer la température ressentie :
 ### Regarder dans le fichier TP_API_POO_2 pour voir l'utilisation avec MySQL.
 ### J'ai ajouté des captures d'écran dans le fichier capture test
 
-LIEN GITHUB TP3 : 
+LIEN GITHUB TP3 : https://github.com/kassoumsanogo1/TP_POO_API_Partie_1.git 
 
 ### Description Succincte des dépendances dans pom.xml 
 
